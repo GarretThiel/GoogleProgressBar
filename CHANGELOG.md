@@ -1,7 +1,7 @@
 Change Log
 ==========
 
-Version 1.2.0 *(02-06-2015)*
+Version#1.2.0  (02-06-2015)*
 ----------------------------
 - Bug fixes
 - ChromeFloatingCirclesDrawable
@@ -21,3 +21,4 @@ Version 1.0.0 *(10-04-2014)*
 ----------------------------
 
 Initial release.
+ 
